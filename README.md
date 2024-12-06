@@ -50,3 +50,6 @@ An enhanced version of the **Bank Management System**, providing core banking fu
 ## Repository Links
 - Old Repository: [View Current Repository](https://github.com/iamrlz/bank-management-system)
 - Current Repository for Updates: [View Updated Repository](https://github.com/iamrlz/bank-management-system-using-php-Updated)
+
+### License
+This project is intended for educational purposes. You may extend or modify it as needed. For commercial use, please provide appropriate attribution.
